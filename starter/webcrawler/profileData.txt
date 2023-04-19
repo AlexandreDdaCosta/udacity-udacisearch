@@ -1,0 +1,12 @@
+Run at Sun, 19 Feb 2023 19:24:05 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 6s 49ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 13s 491ms
+
+Run at Sun, 19 Feb 2023 19:25:46 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 822ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 13s 612ms
+
+Run at Sun, 19 Feb 2023 19:26:57 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 587ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 13s 725ms
+
