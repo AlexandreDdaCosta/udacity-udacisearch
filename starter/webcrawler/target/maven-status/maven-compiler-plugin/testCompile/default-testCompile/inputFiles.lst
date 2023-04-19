@@ -1,0 +1,12 @@
+/home/alexandrediasdacosta/cd0381-advanced-java-programming-techniques-projectstarter-master/starter/webcrawler/src/test/java/com/udacity/webcrawler/profiler/ProfilerImplTest.java
+/home/alexandrediasdacosta/cd0381-advanced-java-programming-techniques-projectstarter-master/starter/webcrawler/src/test/java/com/udacity/webcrawler/WebCrawlerTest.java
+/home/alexandrediasdacosta/cd0381-advanced-java-programming-techniques-projectstarter-master/starter/webcrawler/src/test/java/com/udacity/webcrawler/NoOpProfilerModule.java
+/home/alexandrediasdacosta/cd0381-advanced-java-programming-techniques-projectstarter-master/starter/webcrawler/src/test/java/com/udacity/webcrawler/WordCountsTest.java
+/home/alexandrediasdacosta/cd0381-advanced-java-programming-techniques-projectstarter-master/starter/webcrawler/src/test/java/com/udacity/webcrawler/NoOpProfiler.java
+/home/alexandrediasdacosta/cd0381-advanced-java-programming-techniques-projectstarter-master/starter/webcrawler/src/test/java/com/udacity/webcrawler/ParallelWebCrawlerTest.java
+/home/alexandrediasdacosta/cd0381-advanced-java-programming-techniques-projectstarter-master/starter/webcrawler/src/test/java/com/udacity/webcrawler/json/CrawlResultWriterTest.java
+/home/alexandrediasdacosta/cd0381-advanced-java-programming-techniques-projectstarter-master/starter/webcrawler/src/test/java/com/udacity/webcrawler/parser/PageParserImplTest.java
+/home/alexandrediasdacosta/cd0381-advanced-java-programming-techniques-projectstarter-master/starter/webcrawler/src/test/java/com/udacity/webcrawler/json/ConfigurationLoaderTest.java
+/home/alexandrediasdacosta/cd0381-advanced-java-programming-techniques-projectstarter-master/starter/webcrawler/src/test/java/com/udacity/webcrawler/profiler/FakeClock.java
+/home/alexandrediasdacosta/cd0381-advanced-java-programming-techniques-projectstarter-master/starter/webcrawler/src/test/java/com/udacity/webcrawler/SequentialWebCrawlerTest.java
+/home/alexandrediasdacosta/cd0381-advanced-java-programming-techniques-projectstarter-master/starter/webcrawler/src/test/java/com/udacity/webcrawler/testing/CloseableStringWriter.java

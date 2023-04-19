@@ -1,0 +1,16 @@
+# Created at 2023-02-08T15:07:52.368
+ForkStarter IOException: Stream Closed.
+java.io.IOException: Stream Closed
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:349)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:143)
+	at java.base/java.io.FilterOutputStream.close(FilterOutputStream.java:182)
+	at org.apache.maven.surefire.api.util.internal.Channels$4.closeImpl(Channels.java:246)
+	at org.apache.maven.surefire.api.util.internal.AbstractNoninterruptibleWritableChannel.close(AbstractNoninterruptibleWritableChannel.java:95)
+	at org.apache.maven.surefire.extensions.util.CommandlineStreams.close(CommandlineStreams.java:82)
+	at org.apache.maven.plugin.surefire.booterclient.ForkStarter$CloseableCloser.run(ForkStarter.java:197)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
